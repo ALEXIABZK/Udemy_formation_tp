@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("TP 1,\n\t\"Syntaxe et structure\"\n\t\tHello World\n" );
+	printf("TP 1,\n\t\"Syntaxe et structure\"\n\t\t\t\tHello World\n" );
 
 	return 0;
 }
