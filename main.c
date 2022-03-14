@@ -6,7 +6,7 @@ int main ()
 {
 	const char MOT_A_TROUVER [] = "LUDO";
 
-	char saisie_utilisateur[2]; 
+	char saisie_utilisateur[1]; 
 	char mot_trouve[] ="----"; 
 	int nb_vie = 10;
 	
